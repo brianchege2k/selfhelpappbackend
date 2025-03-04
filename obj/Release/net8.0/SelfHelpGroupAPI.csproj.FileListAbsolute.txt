@@ -134,8 +134,3 @@
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/obj/Release/net8.0/SelfHelpGroupAPI.pdb
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/obj/Release/net8.0/SelfHelpGroupAPI.genruntimeconfig.cache
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/obj/Release/net8.0/ref/SelfHelpGroupAPI.dll
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/bin/Release/net8.0/heroku-output/web.config
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/bin/Release/net8.0/heroku-output/appsettings.Development.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/bin/Release/net8.0/heroku-output/appsettings.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/bin/Release/net8.0/heroku-output/SelfHelpGroupAPI.deps.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/bin/Release/net8.0/heroku-output/SelfHelpGroupAPI.runtimeconfig.json

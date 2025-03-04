@@ -1,11 +1,6 @@
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/SelfHelpGroupAPI
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/heroku-output/web.config
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/appsettings.Development.json
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/appsettings.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/heroku-output/appsettings.Development.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/heroku-output/appsettings.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/heroku-output/SelfHelpGroupAPI.deps.json
-/home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/heroku-output/SelfHelpGroupAPI.runtimeconfig.json
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/SelfHelpGroupAPI.dll
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/SelfHelpGroupAPI.runtimeconfig.json
 /home/chege/SelfHelpLedgerApp/SelfHelpGroupAPI/heroku-output/SelfHelpGroupAPI.pdb

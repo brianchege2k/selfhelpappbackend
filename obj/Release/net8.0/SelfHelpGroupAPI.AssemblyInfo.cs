@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SelfHelpGroupAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c059a06f9430505572cd26076e61a82c946c2dfa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c91d9f829bd46c3b1de8246b5ec198708fd4ce0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SelfHelpGroupAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SelfHelpGroupAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
