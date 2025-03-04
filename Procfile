@@ -1,0 +1,1 @@
+web: ASPNETCORE_URLS=http://*:$PORT dotnet heroku-output/SelfHelpGroupAPI.dll

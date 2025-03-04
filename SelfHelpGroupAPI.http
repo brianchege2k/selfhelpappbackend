@@ -1,0 +1,6 @@
+@SelfHelpGroupAPI_HostAddress = http://localhost:5093
+
+GET {{SelfHelpGroupAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
